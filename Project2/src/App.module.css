@@ -1,0 +1,16 @@
+#body{
+  display:flex;
+  justify-content: center;
+  margin:30px;
+}
+
+#calculator{
+  border: 2px solid black;
+  width: 235px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 5px;
+  justify-content: center;
+  background-color: rgb(91, 88, 88);
+}
+

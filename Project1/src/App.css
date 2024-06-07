@@ -1,0 +1,19 @@
+.itemsContainer{
+  text-align:left;
+  margin:20px;
+  
+}
+
+.row-content{
+  margin:10px;
+}
+
+.Button{
+  width:100px;
+}
+
+.bodyContent{
+  margin:20px;
+  background-color: rgb(236, 220, 220);
+  border-radius: 5px;
+}
